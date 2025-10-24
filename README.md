@@ -2,7 +2,7 @@
 
 Minimal MATLAB toolkit for planning-grade **lunar communications**:
 - L2 **halo-relay** coverage
-- **Ka-band** link budgets: Relay↔Earth (RE), UE↔Earth (LE)
+- **Ka-band** link budgets: Relay↔Earth (RE), UE↔Earth (LE), and Relay↔UE (RL)
 - **ITU-R P.618** atmosphere
 - **LDPC-QPSK** Eb/N0 vs availability + margin plots
 - Ground-station diversity across multiple dish sizes
