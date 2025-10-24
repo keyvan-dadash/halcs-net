@@ -1,7 +1,7 @@
 # HALCS-Net (Ka) — MATLAB Toolkit
 
 Minimal MATLAB toolkit for planning-grade **lunar communications**:
-- L2 **halo-relay** coverage (no SPICE)
+- L2 **halo-relay** coverage
 - **Ka-band** link budgets: Relay↔Earth (RE), UE↔Earth (LE)
 - **ITU-R P.618** atmosphere
 - **LDPC-QPSK** Eb/N0 vs availability + margin plots
